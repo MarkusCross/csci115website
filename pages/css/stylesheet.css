@@ -1,0 +1,10 @@
+
+
+body {
+
+    background-image: url(images/background.jpg);
+            background-repeat:repeat;
+            background-attachment:scroll;
+            background-position: center;
+            margin:0px;
+}
